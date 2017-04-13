@@ -1,0 +1,20 @@
+{
+  "name": "cldflr",
+  "version": "0.1.0",
+  "description": "web publishing fronted by cloudflare",
+  "author": "Brock Whitten <brock@surge.sh>",
+  "license": "ISC",
+  "dependencies": {
+    "microplatform": "0.6.0"
+  },
+  "main": "./src/lib.js",
+  "bin": "./src/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintaxi/cldflr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sintaxi/cldflr/issues"
+  },
+  "homepage": "https://github.com/sintaxi/cldflr#readme"
+}
