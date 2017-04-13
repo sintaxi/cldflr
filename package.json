@@ -1,6 +1,6 @@
 {
   "name": "cldflr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "web publishing fronted by cloudflare",
   "author": "Brock Whitten <brock@surge.sh>",
   "license": "ISC",

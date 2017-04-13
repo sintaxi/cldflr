@@ -5,7 +5,7 @@ var pkg = require("../package.json")
 module.exports = microplatform({
   cmd: "cldflr",
   name: "cldflr platform",
-  platform: "cldflr.io",
+  platform: "cldflr.com",
   version: pkg.version,
   boilerplates: __dirname + "/boilerplates"
 })
