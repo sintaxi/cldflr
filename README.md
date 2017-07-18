@@ -26,7 +26,7 @@ run `cldflr help` to view the follwing output...
 
 ```
 cldflr platform v0.1.0
-dev server & web publishing to cldflr.io (powered by surge)
+dev server & web publishing to cldflr.com (powered by surge)
 
 Usage:
   cldflr <source>             Starts dev server on <source> directory
@@ -48,5 +48,5 @@ Examples:
   cldflr . example.com        Publishes current dir to 'example.com'
   cldflr . www                Compiles current dir to 'www' directory
 
-please visit cldflr.io for more information
+please visit cldflr.com for more information
 ```
